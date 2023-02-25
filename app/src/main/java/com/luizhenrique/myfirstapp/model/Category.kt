@@ -1,6 +1,6 @@
 package com.luizhenrique.myfirstapp.model
 
 data class Category(
-    var titleCaregory: String,
+    var titleCategory: String,
     var imageCategory: Int
 )
