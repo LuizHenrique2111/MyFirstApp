@@ -6,7 +6,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView.*
 import com.luizhenrique.myfirstapp.R
 import com.luizhenrique.myfirstapp.model.Category
-import androidx.cardview.widget.CardView
+import kotlinx.android.synthetic.main
 
 class CategoriesAdapter(
     val categories: MutableList<Category>,
